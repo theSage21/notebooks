@@ -14,3 +14,4 @@ Assignments:
 - [Fibonacci numbers](books/assignments/Fibonacci.ipynb)
 - [Factorial calculation](books/assignments/Factorial.ipynb)
 - [Babylonian method for √2](books/assignments/Babylonian_root_2.ipynb)
+- [Properties of Models](books/assignments/props_of_models.ipynb)
