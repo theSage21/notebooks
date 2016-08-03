@@ -15,3 +15,5 @@ Assignments:
 - [Factorial calculation](books/assignments/Factorial.ipynb)
 - [Babylonian method for √2](books/assignments/Babylonian_root_2.ipynb)
 - [Properties of Models](books/assignments/props_of_models.ipynb)
+- [Numerical Methods Errors](books/assignments/errors_in_numerical_methods.ipynb)
+- [Estimating Roots of functions- Bisection, False Position, Newton](books/assignments/finding_roots.ipynb)
