@@ -21,3 +21,5 @@ Assignments:
 - [Lotka Volterra simulation](books/assignments/lotka-volterra.ipynb)
 - [Simple Pendulum](books/assignments/simple_pendulum.ipynb)
 - [Lorenz System](books/assignments/lorenz.ipynb)
+- [Numerical Integration](books/assignments/numerical_integration.ipynb)
+- [Simple Harmonic Motion](books/assignments/shm.ipynb)
