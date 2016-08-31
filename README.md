@@ -14,7 +14,7 @@ Assignments sorted in alphabetical order:
 `*` denotes in progress notebook
 
 - [Babylonian method for √2](books/assignments/Babylonian_root_2.ipynb)
-- [`*` Cellular Automata](books/assignments/Babylonian_root_2.ipynb)
+- [Cellular Automata](books/assignments/conways_game.ipynb)
 - [Estimating Roots of functions- Bisection, False Position, Newton](books/assignments/finding_roots.ipynb)
 - [Factorial calculation](books/assignments/Factorial.ipynb)
 - [Fibonacci numbers](books/assignments/Fibonacci.ipynb)
