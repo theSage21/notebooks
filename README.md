@@ -27,4 +27,4 @@ Assignments sorted in alphabetical order:
 - [Simple Pendulum](books/assignments/simple_pendulum.ipynb)
 - [Vander Pol Oscillation](books/assignments/vander_pol_osc.ipynb)
 - [`*` Kepler's equations](books/assignments/kepler.ipynb)
-- [`*` Gossip models](books/assignments/gossip.ipynb)
+- [Gossip models](books/assignments/gossip.ipynb)
