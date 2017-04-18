@@ -10,6 +10,7 @@ List
 - [Python is turing Complete](books/Python3_is_turing_complete.ipynb)
 - [Rajasthan Vehicle Registrations](books/RAJ_VEH.ipynb)
 - [SSC attendance](books/SSCattendance.ipynb)
+- [Hilbert curve + Sacks spiral](books/Spirals.ipynb)
 
 Assignments sorted in alphabetical order:
 
