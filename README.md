@@ -11,6 +11,7 @@ List
 - [Rajasthan Vehicle Registrations](books/RAJ_VEH.ipynb)
 - [SSC attendance](books/SSCattendance.ipynb)
 - [Hilbert curve + Sacks spiral](books/Spirals.ipynb)
+- [Serpinski Fractal](books/SerpinskiFractals.ipynb)
 
 Assignments sorted in alphabetical order:
 
