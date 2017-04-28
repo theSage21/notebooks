@@ -12,6 +12,7 @@ List
 - [SSC attendance](books/SSCattendance.ipynb)
 - [Hilbert curve + Sacks spiral](books/Spirals.ipynb)
 - [Serpinski Fractal](books/SerpinskiFractals.ipynb)
+- [Barnsley's Fern](books/BarnsleyFern.ipynb)
 
 Assignments sorted in alphabetical order:
 
