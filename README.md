@@ -13,6 +13,7 @@ List
 - [Hilbert curve + Sacks spiral](books/Spirals.ipynb)
 - [Serpinski Fractal](books/SerpinskiFractals.ipynb)
 - [Barnsley's Fern](books/BarnsleyFern.ipynb)
+- [Broken Audio Reconstruction using RNNs](books/AudioReconstruction.ipynb)
 
 Assignments sorted in alphabetical order:
 
