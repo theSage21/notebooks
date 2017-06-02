@@ -14,6 +14,7 @@ List
 - [Serpinski Fractal](books/SerpinskiFractals.ipynb)
 - [Barnsley's Fern](books/BarnsleyFern.ipynb)
 - [Broken Audio Reconstruction using RNNs](books/AudioReconstruction.ipynb)
+- [X ** X curve](books/X_power_X.ipynb)
 
 Assignments sorted in alphabetical order:
 
