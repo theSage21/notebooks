@@ -15,6 +15,7 @@ List
 - [Barnsley's Fern](books/BarnsleyFern.ipynb)
 - [Broken Audio Reconstruction using RNNs](books/AudioReconstruction.ipynb)
 - [Turing Reinforcement](books/Turing-Learner.ipynb)
+- [X ** X curve](books/X_power_X.ipynb)
 
 Assignments sorted in alphabetical order:
 
