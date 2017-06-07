@@ -16,6 +16,7 @@ List
 - [Broken Audio Reconstruction using RNNs](books/AudioReconstruction.ipynb)
 - [Turing Reinforcement](books/Turing-Learner.ipynb)
 - [X ** X curve](books/X_power_X.ipynb)
+- [SOM Example](books/SOM-Example.ipynb)
 
 Assignments sorted in alphabetical order:
 
