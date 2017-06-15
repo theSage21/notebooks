@@ -17,7 +17,7 @@ List
 - [Turing Reinforcement](books/Turing-Learner.ipynb)
 - [X ** X curve](books/X_power_X.ipynb)
 - [SOM Example](books/SOM-Example.ipynb)
-- [Digit frequency](books/DgitFrequencies.ipynb)
+- [Digit frequency](books/DigitFrequencies.ipynb)
 
 Assignments sorted in alphabetical order:
 
