@@ -18,6 +18,7 @@ List
 - [X ** X curve](books/X_power_X.ipynb)
 - [SOM Example](books/SOM-Example.ipynb)
 - [Digit frequency](books/DigitFrequencies.ipynb)
+- [Better Brute Force](books/BetterBruteForce.ipynb)
 
 Assignments sorted in alphabetical order:
 
