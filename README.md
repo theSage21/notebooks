@@ -19,6 +19,7 @@ List
 - [SOM Example](books/SOM-Example.ipynb)
 - [Digit frequency](books/DigitFrequencies.ipynb)
 - [Better Brute Force](books/BetterBruteForce.ipynb)
+- [DDOS detection with GRU networks](books/DDOS-Detect.ipynb)
 
 Assignments sorted in alphabetical order:
 
