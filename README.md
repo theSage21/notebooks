@@ -20,6 +20,7 @@ List
 - [Digit frequency](books/DigitFrequencies.ipynb)
 - [Better Brute Force](books/BetterBruteForce.ipynb)
 - [DDOS detection with GRU networks](books/DDOS-Detect.ipynb)
+- [Random Money allocation](books/RandomMoneySending.ipynb)
 
 Assignments sorted in alphabetical order:
 
